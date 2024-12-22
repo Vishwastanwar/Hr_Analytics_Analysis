@@ -1,8 +1,9 @@
 # Optimizing_Retention_with_HR_Attrition_Analytics
 - [Dasboard Link](https://app.powerbi.com/groups/me/reports/42a495d4-1517-4009-a7c3-2a55652dc4b1/0fbffd71923a1900a58b?experience=power-bi)
+- [Detailed_Report](https://github.com/Vishwastanwar/Hr_Analytics_Analysis/blob/main/Report.pdf)
 ![Project](https://github.com/Vishwastanwar/Hr_Analytics_Analysis/blob/main/image.png)
 
-- [Detailed_Report](https://github.com/Vishwastanwar/Hr_Analytics_Analysis/blob/main/Report.pdf)
+
 ## Summary
 The HR Analytics Dashboard provides detailed insights into employee attrition trends and organizational workforce demographics. It enables HR professionals and decision-makers to identify patterns, understand employee turnover causes, and develop strategies to improve retention.
 
