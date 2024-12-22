@@ -1,7 +1,7 @@
 # Optimizing_Retention_with_HR_Attrition_Analytics
 ![Project](https://github.com/Vishwastanwar/Hr_Analytics_Analysis/blob/main/image.png)
 
-
+- [Detailed_Report](https://github.com/Vishwastanwar/Hr_Analytics_Analysis/blob/main/Report.pdf)
 ## Summary
 The HR Analytics Dashboard provides detailed insights into employee attrition trends and organizational workforce demographics. It enables HR professionals and decision-makers to identify patterns, understand employee turnover causes, and develop strategies to improve retention.
 
